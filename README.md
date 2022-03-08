@@ -8,10 +8,9 @@
    2. Intent Rule
 4. Download OSPF and BGP diagrams for each site
 5. Unicast Example
-   1. Picture
-      1. ICMP
-      2. TCP
-      3. Subnet Search Example
-   2. JSON vs Model
-   3. User Defined First Hop
-6. Multicast Example
+   1. ICMP
+   2. TCP
+   3. Subnet Search Example
+   4. User Defined First Hop
+6. Unicast JSON vs Model
+7. Multicast Example
