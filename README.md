@@ -10,7 +10,7 @@
 5. Unicast Example
    1. ICMP
    2. TCP
-   3. Subnet Search Example
+   3. Subnet Example
    4. User Defined First Hop
 6. Unicast JSON vs Model
 7. Multicast Example
